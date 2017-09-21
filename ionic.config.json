@@ -2,5 +2,7 @@
   "name": "AwesomePlaces",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
